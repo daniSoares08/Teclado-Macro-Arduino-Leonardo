@@ -14,9 +14,9 @@ Este projeto transforma um **Arduino Leonardo** (ou qualquer placa compatível c
 | 8    | Atalho `Ctrl + X` (Cortar)                     |
 | 9    | Digita o número `6`                            |
 | 10   | Atalho `Ctrl + Z` (Desfazer)                   |
-| 11   | Digita o código `"UsFMR4Fo0$8&xkl"`            |
-| 12   | Digita o código `"VL4k*|W3kif$9MlN"`           |
-| 13   | Digita o código `"6@wuOoX@D+jk8NSd"`           |
+| 11   | Digita o código `"email 1"`            |
+| 12   | Digita o código `"email 2"`           |
+| 13   | Digita o código `"email 3"`           |
 | 16   | Atalho `Ctrl + Y` (Refazer)                    |
 | A0   | Potenciômetro para controle de volume do sistema |
 
