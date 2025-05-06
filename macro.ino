@@ -1,3 +1,4 @@
+// Projeto para arduino Leonardo
 #include <HID-Project.h> // Inclui a biblioteca HID-Project
 
 // Configuração do potenciômetro
